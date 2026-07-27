@@ -15,6 +15,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/nithingowda15152/Leetcode-JAVA/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nithingowda15152/Leetcode-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0075-sort-colors](https://github.com/nithingowda15152/Leetcode-JAVA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nithingowda15152/Leetcode-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2965-find-missing-and-repeated-values](https://github.com/nithingowda15152/Leetcode-JAVA/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -34,4 +35,12 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/nithingowda15152/Leetcode-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/nithingowda15152/Leetcode-JAVA/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/nithingowda15152/Leetcode-JAVA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
